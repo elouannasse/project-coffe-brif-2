@@ -152,7 +152,7 @@ header {
     text-align: center;
     padding: 20px;
     background-color: black;
-    color: white;
+    color: rgb(54, 14, 218);
 }
 
 
@@ -333,6 +333,9 @@ label {
 }
 .name3{
     margin-top: 20px;
+}
+.button-container{
+    color: black;
 }
 
 
